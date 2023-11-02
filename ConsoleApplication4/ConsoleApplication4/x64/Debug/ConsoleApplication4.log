@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\QQ\source\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\QQ\source\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
